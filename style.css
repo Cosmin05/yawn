@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Highlight_Child
+ Description:  Highlight Child theme
+ Author:       Cosmin
+ Template:     mesmerize
+ Version:      1.0.15
+
+
+*/
+
+.site {
+	background-color: #F2F4F5;
+}
+
+@import url ("../highlight/style.css")
